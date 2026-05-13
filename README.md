@@ -27,5 +27,5 @@ Najprostszy sposób użycia aplikacji:
 
 ## Repo źródłowe
 
-Kod źródłowy i proces budowania pakietu portable znajdują się w repo głównym DMP-ART.
+Kod źródłowy i proces budowania pakietu portable znajdują się w repo głównym DMP-ART https://github.com/gammaro85/DMP-ART .
 Paczka jest budowana poleceniem `python build_portable.py`, a następnie publikowana tutaj jako asset release.
